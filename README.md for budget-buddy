@@ -1,0 +1,37 @@
+# Budget Buddy 💰📘
+
+A minimalist budget tracking app for managing income and expenses without the stress.  
+Built with React and TailwindCSS, this project is clean, responsive, and gives off strong *“I know how to code”* energy.
+
+---
+
+### 🔧 Features
+
+- Responsive UI using TailwindCSS
+- Placeholder layout with dark mode vibes
+- Built with Vite + React
+- Ready for expansion with actual budgeting logic someday (maybe)
+
+---
+
+### 🚀 Live Demo  
+[https://budget-buddy-[your-vercel-project].vercel.app](https://budget-buddy-[your-vercel-project].vercel.app)
+
+*(Update this link once it's deployed on Vercel)*
+
+---
+
+### 🧱 Tech Stack
+
+- React
+- TailwindCSS
+- Vite
+- GitHub + Vercel (deployment)
+
+---
+
+### 📂 Setup Instructions
+
+```bash
+npm install
+npm run dev
